@@ -1,0 +1,97 @@
+.carousel-item {
+    height: 36rem;
+}
+
+#banner-image{
+    width: 100%;
+    height: 36rem;
+}
+
+.staff-row{
+    height: 36rem;
+    padding-top: 8%;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    border: 1px solid #777;
+}
+
+.staff-photo{
+    border-radius: 100%;  
+}
+
+#hop-container{
+    height:36rem;
+    padding-top: 5%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #777;
+
+}
+
+#hop-description{
+    width: 40%;
+    height:40%;
+    padding:5%;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+
+#photo-size{
+    width: 400px;
+    height: 400px;
+}
+
+#event-container{
+    height:36rem;
+    padding-top: 5%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color:white;
+    
+}
+
+#event-description{
+    width: 40%;
+    height:40%;
+    padding:5%;
+    text-align: center;
+    color: black;
+    font-size: 22px;
+}
+
+#beer-garden-container{
+    height:36rem;
+    padding-top: 5%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #777;
+}
+
+#beer-garden-description{
+    width: 40%;
+    height:40%;
+    padding:5%;
+    text-align: center;
+    color: black;
+    font-size: 22px;
+}
+
+footer{
+    width:100%;
+    height:40px;
+    background-color: white;
+    border: 1px solid black;
+}
